@@ -43,5 +43,5 @@ def main():
         spoof(router_ip_addr, arguments.ip_address)
         sleep(0.01)
 if __name__ == "__main__":
-	display_title()
+    display_title()
     main()
